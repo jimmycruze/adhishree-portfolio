@@ -34,11 +34,11 @@ export default function Sidebar() {
             style={{
               fontFamily: "'Cormorant Garamond', serif",
               fontWeight: 600,
-              fontSize: '17px',
+              fontSize: '18px',
               color: pathname === '/' ? 'var(--accent)' : 'var(--text-primary)',
             }}
           >
-            adhishree.
+            adhishree p.
           </Link>
 
           {/* Nav links */}
@@ -72,7 +72,7 @@ export default function Sidebar() {
           {/* Contact */}
           <div className="flex flex-col gap-2">
             <a
-              href="mailto:adhishreemakeupartist@gmail.com"
+              href="mailto:adhishreep20@gmail.com"
               style={{
                 fontFamily: "'DM Mono', monospace",
                 fontSize: '12px',
@@ -86,7 +86,7 @@ export default function Sidebar() {
               email ↗
             </a>
             <a
-              href="https://www.instagram.com/adhishree_mua/"
+              href="https://www.instagram.com/adhishreep/"
               target="_blank"
               rel="noopener noreferrer"
               style={{
@@ -153,7 +153,7 @@ export default function Sidebar() {
               marginBottom: '48px',
             }}
           >
-            adhishree.
+            adhishree p.
           </Link>
 
           <nav className="flex flex-col items-center gap-6">
@@ -176,7 +176,7 @@ export default function Sidebar() {
 
           <div className="flex gap-6 mt-12">
             <a
-              href="mailto:adhishreemakeupartist@gmail.com"
+              href="mailto:adhishreep20@gmail.com"
               onClick={() => setMenuOpen(false)}
               style={{
                 fontFamily: "'DM Mono', monospace",
@@ -187,7 +187,7 @@ export default function Sidebar() {
               email ↗
             </a>
             <a
-              href="https://www.instagram.com/adhishree_mua/"
+              href="https://www.instagram.com/adhishreep/"
               target="_blank"
               rel="noopener noreferrer"
               onClick={() => setMenuOpen(false)}

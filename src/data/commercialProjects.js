@@ -2,7 +2,7 @@ export const commercialProjects = [
   {
     id: "ahilya-for-filmfare-awards",
     title: "Ahilya — Filmfare Awards",
-    cover: "/assets/commercial/ahilya-for-filmfare-awards/ahilyaxindianfootprints-17.jpg",
+    cover: "/assets/commercial/ahilya-for-filmfare-awards/ahilyaxindianfootprints-41.jpg",
     images: [
       "/assets/commercial/ahilya-for-filmfare-awards/ahilyaxindianfootprints-17.jpg",
       "/assets/commercial/ahilya-for-filmfare-awards/ahilyaxindianfootprints-21.jpg",
@@ -15,7 +15,7 @@ export const commercialProjects = [
   {
     id: "aisha-ahmed",
     title: "Aisha Ahmed",
-    cover: "/assets/commercial/aisha-ahmed/04440668-682c-4f85-8a7c-5263fca0ecd2_l0_001-11_5_2026_11_25_32_pm.jpg",
+    cover: "/assets/commercial/aisha-ahmed/d3d6f1b7-2a8e-4cf4-9b02-a5eee57a2bc2_l0_001-11_5_2026_11_26_18_pm.jpg",
     images: [
       "/assets/commercial/aisha-ahmed/27fefe56-a66c-4608-9ddd-346a2f51827d_l0_001-11_5_2026_11_23_54_pm.jpg",
       "/assets/commercial/aisha-ahmed/04440668-682c-4f85-8a7c-5263fca0ecd2_l0_001-11_5_2026_11_25_32_pm.jpg",
@@ -25,7 +25,7 @@ export const commercialProjects = [
   {
     id: "cuin",
     title: "Cuin",
-    cover: "/assets/commercial/cuin/cuin-elements2889.webp",
+    cover: "/assets/commercial/cuin/cuin-elements5255.webp",
     images: [
       "/assets/commercial/cuin/cuin-elements2889.webp",
       "/assets/commercial/cuin/cuin-elements3052.webp",
@@ -45,7 +45,7 @@ export const commercialProjects = [
   {
     id: "duara-campaign",
     title: "Duara — Campaign",
-    cover: "/assets/commercial/duara-campaign/14_1_1800x1800.webp",
+    cover: "/assets/commercial/duara-campaign/26_1_1800x1800.webp",
     images: [
       "/assets/commercial/duara-campaign/14_1_1800x1800.webp",
       "/assets/commercial/duara-campaign/19_1_1800x1800.webp",
@@ -97,7 +97,7 @@ export const commercialProjects = [
   {
     id: "furi-jewels",
     title: "Furi Jewels",
-    cover: "/assets/commercial/furi-jewels/furix2ndsept23073.jpg",
+    cover: "/assets/commercial/furi-jewels/furix2ndsept23440.jpg",
     images: [
       "/assets/commercial/furi-jewels/furix2ndsept23073.jpg",
       "/assets/commercial/furi-jewels/furix2ndsept23178.jpg",
@@ -145,7 +145,7 @@ export const commercialProjects = [
   {
     id: "levi-s",
     title: "Levi's",
-    cover: "/assets/commercial/levi-s/file_000.jpg",
+    cover: "/assets/commercial/levi-s/img_9773.jpg",
     images: [
       "/assets/commercial/levi-s/file_000.jpg",
       "/assets/commercial/levi-s/img_9769.jpg",
@@ -170,7 +170,7 @@ export const commercialProjects = [
   {
     id: "mirchi-by-kim-summer-26",
     title: "Mirchi By Kim — Summer '26",
-    cover: "/assets/commercial/mirchi-by-kim-summer-26/dsc02190.jpeg",
+    cover: "/assets/commercial/mirchi-by-kim-summer-26/~915.jpeg",
     images: [
       "/assets/commercial/mirchi-by-kim-summer-26/dsc02190.jpeg",
       "/assets/commercial/mirchi-by-kim-summer-26/dsc02555.jpeg",
@@ -183,7 +183,7 @@ export const commercialProjects = [
   {
     id: "no-gray-area-campaign",
     title: "No Gray Area — Campaign",
-    cover: "/assets/commercial/no-gray-area-campaign/no_grey_area0257.jpg",
+    cover: "/assets/commercial/no-gray-area-campaign/no_grey_area0865.jpg",
     images: [
       "/assets/commercial/no-gray-area-campaign/no_grey_area0257.jpg",
       "/assets/commercial/no-gray-area-campaign/no_grey_area0779.jpg",
@@ -204,7 +204,7 @@ export const commercialProjects = [
   {
     id: "pace-active",
     title: "Pace Active",
-    cover: "/assets/commercial/pace-active/img_0850.jpg",
+    cover: "/assets/commercial/pace-active/file_000_1.jpg",
     images: [
       "/assets/commercial/pace-active/img_0850.jpg",
       "/assets/commercial/pace-active/file_000.jpg",
@@ -218,7 +218,7 @@ export const commercialProjects = [
   {
     id: "pali-beauty",
     title: "Pali Beauty",
-    cover: "/assets/commercial/pali-beauty/img_5929.jpg",
+    cover: "/assets/commercial/pali-beauty/file_000.jpg",
     images: [
       "/assets/commercial/pali-beauty/img_5929.jpg",
       "/assets/commercial/pali-beauty/img_5930.jpg",
@@ -235,7 +235,7 @@ export const commercialProjects = [
   {
     id: "pantaloons-pujo-festive",
     title: "Pantaloons — Pujo Festive",
-    cover: "/assets/commercial/pantaloons-pujo-festive/file_000.jpg",
+    cover: "/assets/commercial/pantaloons-pujo-festive/file_002.jpg",
     images: [
       "/assets/commercial/pantaloons-pujo-festive/file_000.jpg",
       "/assets/commercial/pantaloons-pujo-festive/file_001.jpg",
@@ -248,7 +248,7 @@ export const commercialProjects = [
   {
     id: "saba-azad",
     title: "Saba Azad",
-    cover: "/assets/commercial/saba-azad/file_003.jpg",
+    cover: "/assets/commercial/saba-azad/file_008.jpg",
     images: [
       "/assets/commercial/saba-azad/file_003.jpg",
       "/assets/commercial/saba-azad/file_004.jpg",
@@ -259,7 +259,7 @@ export const commercialProjects = [
   {
     id: "shealuxe-jewels",
     title: "Shealuxe Jewels",
-    cover: "/assets/commercial/shealuxe-jewels/img_8138.jpg",
+    cover: "/assets/commercial/shealuxe-jewels/shealuxe_finals_35.jpg",
     images: [
       "/assets/commercial/shealuxe-jewels/img_8138.jpg",
       "/assets/commercial/shealuxe-jewels/shealuxe_finals_3.jpg",

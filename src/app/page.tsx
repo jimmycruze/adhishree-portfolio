@@ -45,7 +45,7 @@ export default function LandingPage() {
             transition: 'opacity 400ms ease, transform 400ms ease',
           }}
         >
-          adhishree.
+          adhishree p.
         </h1>
 
         {/* Descriptor */}
@@ -113,9 +113,9 @@ export default function LandingPage() {
             transition: 'opacity 400ms ease 550ms',
           }}
         >
-          <ContactLink href="mailto:adhishreemakeupartist@gmail.com" label="email ↗" />
+          <ContactLink href="mailto:adhishreep20@gmail.com" label="email ↗" />
           <ContactLink
-            href="https://www.instagram.com/adhishree_mua/"
+            href="https://www.instagram.com/adhishreep/"
             label="instagram ↗"
             external
           />

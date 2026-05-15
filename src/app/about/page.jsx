@@ -28,6 +28,20 @@ export default function AboutPage() {
             about
           </p>
 
+          {/* About image */}
+          <div style={{ marginBottom: '40px' }}>
+            <img
+              src="/assets/about/adhishree-about.jpg"
+              alt="Adhishree"
+              style={{
+                width: '100%',
+                maxWidth: '480px',
+                display: 'block',
+                objectFit: 'cover',
+              }}
+            />
+          </div>
+
           {/* Bio */}
           <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
             <p
@@ -38,9 +52,7 @@ export default function AboutPage() {
                 color: 'var(--text-primary)',
               }}
             >
-              Adhishree is a Mumbai-based makeup artist with 9 years of experience
-              creating looks that range from soft, skin-forward beauty to bold
-              editorial statements.
+              With a decade-long career in makeup artistry, Adhishree&apos;s makeup kit includes more than just the expected arsenal of beauty products.
             </p>
             <p
               style={{
@@ -50,9 +62,7 @@ export default function AboutPage() {
                 color: 'var(--text-primary)',
               }}
             >
-              Her work spans commercial campaigns, editorial shoots, and celebrity
-              beauty — with credits across Tira, CeraVe, Levi&apos;s, Amazon Fashion,
-              Spotify, Netflix, Natural Diamond Council, WhatsApp, and more.
+              With a penchant for lustrous skin that looks untouched, and a knack for colour-play that just pops, she knows how to enhance the natural beauty of those who sit in her makeup chair.
             </p>
             <p
               style={{
@@ -62,11 +72,17 @@ export default function AboutPage() {
                 color: 'var(--text-primary)',
               }}
             >
-              Adhishree approaches each project as a collaboration — working closely
-              with directors, photographers, and talent to find the look that
-              serves the story. Whether it&apos;s a skin-first campaign or a
-              high-fashion editorial, the intention is always the same: precision,
-              presence, and work that holds up on screen.
+              When on set, Adhishree brings with her an infectious creative energy, one that knows when less is more and isn&apos;t afraid to experiment either. Rooted in her lived understanding of Indian beauty and skin, she approaches every face with a fresh perspective that goes beyond convention.
+            </p>
+            <p
+              style={{
+                fontFamily: "'DM Mono', monospace",
+                fontSize: '17px',
+                lineHeight: 1.75,
+                color: 'var(--text-primary)',
+              }}
+            >
+              For Adhishree, makeup is never a mask, but a conversation between artistry and identity.
             </p>
           </div>
 
@@ -115,7 +131,7 @@ export default function AboutPage() {
             }}
           >
             <a
-              href="mailto:adhishreemakeupartist@gmail.com"
+              href="mailto:adhishreep20@gmail.com"
               style={{
                 fontFamily: "'DM Mono', monospace",
                 fontSize: '13px',
@@ -126,7 +142,7 @@ export default function AboutPage() {
               email ↗
             </a>
             <a
-              href="https://www.instagram.com/adhishree_mua/"
+              href="https://www.instagram.com/adhishreep/"
               target="_blank"
               rel="noopener noreferrer"
               style={{
