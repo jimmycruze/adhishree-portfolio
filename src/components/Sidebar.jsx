@@ -34,7 +34,7 @@ export default function Sidebar() {
             style={{
               fontFamily: "'Cormorant Garamond', serif",
               fontWeight: 600,
-              fontSize: '18px',
+              fontSize: '21px',
               color: pathname === '/' ? 'var(--accent)' : 'var(--text-primary)',
             }}
           >

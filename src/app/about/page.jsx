@@ -34,8 +34,8 @@ export default function AboutPage() {
               src="/assets/about/adhishree-about.jpg"
               alt="Adhishree"
               style={{
-                width: '100%',
-                maxWidth: '480px',
+                width: '52%',
+                maxWidth: '300px',
                 display: 'block',
                 objectFit: 'cover',
               }}
